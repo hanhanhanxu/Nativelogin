@@ -1,0 +1,15 @@
+create database login;
+use login;
+create table users(
+	account varchar(20) NOT NULL primary key,
+	password varchar(20) NOT NULL,
+	name varchar(20) NOT NULL,
+	age char(2) NOT NULL,
+	email varchar(20) NOT NULL
+);
+
+ÕËºÅ
+ÃÜÂë
+ĞÕÃû
+ÄêÁä
+ÓÊÏä
